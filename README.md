@@ -1,4 +1,4 @@
-Deployed on Hugging Face at: https://huggingface.co/spaces/Aditya-Darshan-G/Auto-PPT-Generator
+Deployed on Hugging Face at https://huggingface.co/spaces/Aditya-Darshan-G/Auto-PPT-Generator
 
 ---
 title: Auto PPT Generator

@@ -1,3 +1,5 @@
+Deployed on Hugging Face at: https://huggingface.co/spaces/Aditya-Darshan-G/Auto-PPT-Generator/tree/main
+
 ---
 title: Auto PPT Generator
 colorFrom: blue
